@@ -1,7 +1,7 @@
 # Loteria
 
 <strong>¡ATENCION!</strong><br>
-Primera práctica "interesante" que hice, aún sin muchos conocimientos en POO y sin uso de Colecciones.
+Primera práctica "interesante" que hice, aún sin muchos conocimientos en programacion orientada a objetos y sin uso de Colecciones.
 
 
 OBJETIVO: <br>
